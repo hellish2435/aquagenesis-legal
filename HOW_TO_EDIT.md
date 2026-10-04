@@ -45,6 +45,12 @@ add a repository that sits inside another one.)
 
 ## Before real players use online features
 
-- Replace every **[bracket]** (studio name, contact email, address, governing law).
-- Have the Privacy Policy and Terms reviewed by someone qualified.
-- Remove the DRAFT notes.
+- ~~Fill in the details~~ Done 2026-10-04: Porchlight Studios (Kenneth Pennell),
+  aquagenesis.support@gmail.com, Florida law, no real-money purchases.
+- **Postal address:** once you have a PO box or virtual mailbox, add it under
+  "Contact" at the end of `privacy.md` (needed before a public launch,
+  especially for EU players). Never use your home address.
+- **Real-money purchases:** if Shell packs are added, rewrite Terms section 4
+  with how purchases and refunds work.
+- Have the Privacy Policy and Terms reviewed by someone qualified, then remove
+  the DRAFT notes and change the "Last updated" dates.

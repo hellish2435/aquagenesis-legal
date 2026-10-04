@@ -4,11 +4,11 @@ title: Privacy Policy
 
 # Aquagenesis Privacy Policy
 
-**Last updated: 2026-10-03**
+**Last updated: 2026-10-04**
 
-> **DRAFT. Not yet reviewed by a lawyer.** Replace everything in [brackets] before publishing.
+> **DRAFT. Not yet reviewed by a lawyer.**
 
-This policy explains what information **[STUDIO NAME]** ("we", "us") collects when you play **Aquagenesis** (the "Game"), how we use it, and the choices you have. If you have questions, contact us at **[CONTACT EMAIL]**.
+This policy explains what information **Porchlight Studios** (Kenneth Pennell; "we", "us") collects when you play **Aquagenesis** (the "Game"), how we use it, and the choices you have. If you have questions, contact us at **aquagenesis.support@gmail.com**.
 
 ## The short version
 
@@ -78,12 +78,12 @@ Online account information is stored in the United States. If you live elsewhere
 - **Delete your account:** Settings → Account → Delete online account.
 - **Stop being online:** Settings → Account → Sign out. Your offline game is kept.
 - **Change your profile:** edit it in the Game and tap "Update my online profile".
-- Depending on where you live, you may have the right to **access, correct, delete or receive a copy** of your information, or to **object** to how we use it. Contact us at **[CONTACT EMAIL]**. You can also complain to your local data protection authority.
+- Depending on where you live, you may have the right to **access, correct, delete or receive a copy** of your information, or to **object** to how we use it. Contact us at **aquagenesis.support@gmail.com**. You can also complain to your local data protection authority.
 - **California residents:** we don't sell or "share" personal information as those terms are defined by California law.
 
 ## 9. Children
 
-Online features are for players **13 and older**. Before going online, the Game asks for your birth month and year; if you're under 13, online features stay off on that device and we don't collect any information from you. If we learn that we have information from a child under 13, we will delete it. Parents can contact us at **[CONTACT EMAIL]**.
+Online features are for players **13 and older**. Before going online, the Game asks for your birth month and year; if you're under 13, online features stay off on that device and we don't collect any information from you. If we learn that we have information from a child under 13, we will delete it. Parents can contact us at **aquagenesis.support@gmail.com**.
 
 ## 10. Security
 
@@ -95,6 +95,5 @@ When we change this policy, we update the "Last updated" date above, and the Gam
 
 ## 12. Contact
 
-**[STUDIO NAME]**
-**[CONTACT EMAIL]**
-**[POSTAL ADDRESS — required in some regions, e.g. the EU]**
+**Porchlight Studios** (Kenneth Pennell)
+**aquagenesis.support@gmail.com**

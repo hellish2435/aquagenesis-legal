@@ -4,11 +4,11 @@ title: Terms of Service
 
 # Aquagenesis Terms of Service
 
-**Last updated: 2026-10-03**
+**Last updated: 2026-10-04**
 
-> **DRAFT. Not yet reviewed by a lawyer.** Replace everything in [brackets] before publishing.
+> **DRAFT. Not yet reviewed by a lawyer.**
 
-These Terms are an agreement between you and **[STUDIO NAME]** ("we", "us") about your use of **Aquagenesis** (the "Game") and its online features. By playing the Game you agree to these Terms. If you don't agree, please don't play.
+These Terms are an agreement between you and **Porchlight Studios** (Kenneth Pennell; "we", "us") about your use of **Aquagenesis** (the "Game") and its online features. By playing the Game you agree to these Terms. If you don't agree, please don't play.
 
 ## 1. Who can play
 
@@ -32,7 +32,7 @@ We give you a personal, non-exclusive, non-transferable, revocable licence to do
 
 ## 4. In-game items and currencies
 
-Coins, Shells, Reagents, fish, genes, decorations and other in-game items have **no real-world value**, can't be exchanged for money, and are licensed to you, not sold. We may change, rebalance or remove them as the Game develops. [If real-money purchases are added later, this section will explain how they work and the refund rules.]
+Coins, Shells, Reagents, fish, genes, decorations and other in-game items have **no real-world value**, can't be exchanged for money, and are licensed to you, not sold. We may change, rebalance or remove them as the Game develops. The Game currently has no real-money purchases.
 
 ## 5. Your content
 
@@ -40,7 +40,7 @@ You keep any rights you have in names and photos you create. By putting content 
 
 ## 6. AI-generated content
 
-Some of the Game's art is created with the help of AI tools. See our AI-Generated Content Disclosure for details.
+Much of the Game's art, code and text is made with the help of AI tools. See our AI-Generated Content Disclosure for details.
 
 ## 7. Changes and availability
 
@@ -60,9 +60,9 @@ To the extent the law allows, we are not liable for indirect, incidental or cons
 
 ## 11. Governing law
 
-These Terms are governed by the laws of **[STATE / COUNTRY]**, except where your local consumer laws say otherwise.
+These Terms are governed by the laws of **the State of Florida, United States**, except where your local consumer laws say otherwise.
 
 ## 12. Contact
 
-**[STUDIO NAME]**
-**[CONTACT EMAIL]**
+**Porchlight Studios** (Kenneth Pennell)
+**aquagenesis.support@gmail.com**
