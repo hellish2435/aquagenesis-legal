@@ -1,0 +1,5 @@
+title: Aquagenesis
+description: Legal documents for Aquagenesis
+theme: jekyll-theme-minimal
+exclude:
+  - HOW_TO_EDIT.md
